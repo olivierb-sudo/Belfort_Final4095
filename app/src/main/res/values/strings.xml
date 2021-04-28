@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">a2021_04_26_room</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="dialog_already_in_DB">Stock already in DB</string>
+    <string name="dialog_message">Ouch!</string>
+    <string name="dialog_title">Stock in DB</string>
+
+
+    <string name="okay">OK</string>
+    <string name="cancel">OK</string>
+</resources>
